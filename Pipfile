@@ -10,9 +10,9 @@ pytest = "*"
 flake8 = "*"
 mock = "*"
 travis = "*"
+nose = "*"
 
 [packages]
-tox = "*"
 
 [requires]
 python_version = "3.6"
