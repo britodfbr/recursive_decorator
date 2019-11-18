@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5e4379c55c9d81ed2acbb4e15bb03c66a3f5e10b4be07ccd5f21e65b8a617eb3"
+            "sha256": "079d8aa00e4f45330d729112c6c32819b9200d4a0f8803f3c99ad5994740d2c9"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,7 +15,30 @@
             }
         ]
     },
-    "default": {},
+    "default": {
+        "cached-property": {
+            "hashes": [
+                "sha256:3a026f1a54135677e7da5ce819b0c690f156f37976f3e30c5430740725203d7f",
+                "sha256:9217a59f14a5682da7c4b8829deadbfc194ac22e9908ccf7c8820234e80a1504"
+            ],
+            "index": "pypi",
+            "version": "==1.5.1"
+        },
+        "codetransformer": {
+            "hashes": [
+                "sha256:442aca89cc961f8c9234dd17e35d36cdeaca670f167610e67cef232426705118"
+            ],
+            "index": "pypi",
+            "version": "==0.7.2"
+        },
+        "toolz": {
+            "hashes": [
+                "sha256:08fdd5ef7c96480ad11c12d472de21acd32359996f69a5259299b540feba4560",
+                "sha256:0c95ff47d6ba7f12f018663fc407d0cbfb2d0c6c164f0760037056992387b8be"
+            ],
+            "version": "==0.10.0"
+        }
+    },
     "develop": {
         "atomicwrites": {
             "hashes": [

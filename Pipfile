@@ -14,6 +14,8 @@ nose = "*"
 bumpversion = "*"
 
 [packages]
+cached-property = "*"
+codetransformer = "*"
 
 [requires]
 python_version = "3.6"
